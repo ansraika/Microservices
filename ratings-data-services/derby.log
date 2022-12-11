@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 07 23:30:30 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-edbf-0556-00000f14e9e0 
+on database directory memory:/Users/ansraika/Desktop/Anshit/microservicePractices/ratings-data-services/24995ed4-c4e2-44e5-9576-f117ed1aaee9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6a6824be 
+Loaded from file:/Users/ansraika/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.14+9-LTS
+user.dir=/Users/ansraika/Desktop/Anshit/microservicePractices/ratings-data-services
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
